@@ -1,0 +1,62 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+#geral{
+	width: 100%;
+	height: 78%;
+	margin: 0px;
+	
+}
+
+#corpo {
+	height: 796px;
+	background-image: url('footer_azul_escuro.png');
+}
+
+#corpo p input {
+	margin-left: 9px;
+}
+
+#cabecalho{
+	height: 161px;
+	background-image: url('footer.png');
+	text-align: center;
+	color: black;
+	font-family:arial black
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+ul {
+   padding: 0px!important; 
+}
+
+.logo {
+    float: left;
+    padding: 16px;
+    width: 70%;
+}
+
+.header-2 {
+    background-color: #ffffff;
+    width: 980px;
+    margin: 0 auto;
+    padding: 16px;
+}
+.menu-urls {
+    height: 80px;
+    width: 100%;
+    border-bottom: 3px solid black;
+}
+.menu ul li {
+    display: inline-block;
+    color: black;
+    margin-left: 15px;
+    height: 48px;
+}
+
